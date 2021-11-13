@@ -32,15 +32,18 @@ Constraints
 1<=n<=1000
 1<=k<=n
 -100<=a[i]<=100
+
 Sample Input
 2
 4 3
 -1 -3 4 2
 4 2
 0 -1 2 1
+
 Sample Output
 YES
 NO
+
 Explanation
 For the first test case, k=3. The professor wants at least 3 students in attendance, but only 2 have arrived on time ( -3 and -1) so the class is cancelled.
 
